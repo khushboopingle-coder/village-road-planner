@@ -1,0 +1,7 @@
+streamlit
+folium
+streamlit-folium
+numpy
+pandas
+scikit-image
+pillow
